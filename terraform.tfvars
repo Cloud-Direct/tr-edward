@@ -1,0 +1,7 @@
+root_id                         = "ed"
+root_name                       = "Edward-Azure-Landing-Zone"
+root_parent_management_group_id = ""
+starter_location                = "uksouth"
+subscription_id_connectivity    = "59576304-6998-4514-848a-14bee03b4139"
+subscription_id_identity        = "97aa875e-a6cd-42cf-b177-ba53fcf00b85"
+subscription_id_management      = "9975ba82-8e03-4917-b750-3b9d47a7e66d"
