@@ -1,5 +1,5 @@
 root_id                         = "ed"
-root_name                       = "Edward-Azure-Landing-Zone"
+root_name                       = "Training-Edward"
 root_parent_management_group_id = ""
 starter_location                = "uksouth"
 subscription_id_connectivity    = "59576304-6998-4514-848a-14bee03b4139"
