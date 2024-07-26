@@ -17,7 +17,7 @@ on:
 
 jobs:
   plan_and_apply:
-    uses: ./.github/workflows/cd-template.yaml
+    uses: Cloud-Direct/tr-edward-templates/.github/workflows/cd-template.yaml@main
     name: 'CD'
     permissions:
       id-token: write
